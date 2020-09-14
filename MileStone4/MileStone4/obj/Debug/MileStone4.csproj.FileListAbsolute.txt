@@ -1,0 +1,141 @@
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\MileStone4.exe.config
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\EntityFramework.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\EntityFramework.xml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\tester.g.cs
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\App.g.cs
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.cache
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.lref
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\App.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\tester.baml
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.g.resources
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.Properties.Resources.resources
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CopyComplete
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\T\MileStone4\MileStone4\obj\Debug\MileStone4.pdb
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.exe.config
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\EntityFramework.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\EntityFramework.xml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\App.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.cache
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.lref
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\App.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.g.resources
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.Properties.Resources.resources
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CopyComplete
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\MileStone4.pdb
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\MileStone4.exe.config
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\EntityFramework.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\log4net.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\EntityFramework.xml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\log4net.xml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.csprojAssemblyReference.cache
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.g.cs
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\App.g.cs
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.cache
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.lref
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\App.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.baml
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.g.resources
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.Properties.Resources.resources
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.GenerateResource.cache
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CoreCompileInputs.cache
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CopyComplete
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.exe
+C:\Users\Almogi\Desktop\git\MileStone4\MileStone4\obj\Debug\MileStone4.pdb
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.baml
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\tester.g.cs
+C:\Users\Iftah\Desktop\MileStone4\MileStone4\MileStone4\obj\Debug\tester.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\MileStone4.exe.config
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\EntityFramework.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\EntityFramework.xml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.g.cs
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\App.g.cs
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.cache
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4_MarkupCompile.lref
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\App.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\BoardMng.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\login.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.g.resources
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.Properties.Resources.resources
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.csproj.CopyComplete
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.exe
+C:\Users\Iftah\Desktop\a\MileStone4\MileStone4\obj\Debug\MileStone4.pdb

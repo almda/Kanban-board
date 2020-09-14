@@ -1,0 +1,115 @@
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\bin\Debug\MileStone3.exe.config
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\bin\Debug\MileStone3.exe
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\bin\Debug\MileStone3.pdb
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\bin\Debug\log4net.dll
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\bin\Debug\log4net.xml
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MainWindow.g.cs
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\App.g.cs
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.cache
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.lref
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MainWindow.baml
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.g.resources
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.Properties.Resources.resources
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.GenerateResource.cache
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CopyComplete
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.exe
+C:\Users\Iftah\source\repos\MileStone3\MileStone3\obj\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\bin\Debug\MileStone3.exe.config
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\bin\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\bin\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MainWindow.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\App.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.lref
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MainWindow.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.g.resources
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.Properties.Resources.resources
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CopyComplete
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\obj\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MainWindow.g.cs
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\App.g.cs
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.cache
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.lref
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\bin\Debug\MileStone3.exe.config
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\bin\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\bin\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MainWindow.baml
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.g.resources
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.Properties.Resources.resources
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\b\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CopyComplete
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csprojResolveAssemblyReference.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\tester.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.lref
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.exe.config
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.exe
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.pdb
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\log4net.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\log4net.xml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\tester.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.g.resources
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.Properties.Resources.resources
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.GenerateResource.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CoreCompileInputs.cache
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CopyComplete
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.exe.config
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.exe
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\bin\Debug\MileStone3.pdb
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\bin\Debug\log4net.dll
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\bin\Debug\log4net.xml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csprojAssemblyReference.cache
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\tester.g.cs
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.cache
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3_MarkupCompile.lref
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\tester.baml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.g.resources
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.Properties.Resources.resources
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.GenerateResource.cache
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CoreCompileInputs.cache
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.csproj.CopyComplete
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.exe
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\MileStone3.pdb
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\App.g.cs
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\App.baml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\login.baml
+C:\Users\Almogi\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\Styles\Styles.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\BoardGui.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\login.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\registration.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\App.g.cs
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\App.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\BoardGui.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\login.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\obj\Debug\Presentation Layer\registration.baml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\EntityFramework.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\EntityFramework.xml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iftah\Desktop\MileStone3\MileStone3\MileStone3\bin\Debug\System.Data.SQLite.dll.config

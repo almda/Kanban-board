@@ -1,0 +1,118 @@
+﻿<Window x:Class="MileStone4.BoardGui"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MileStone4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="761.776" Width="1270.262">
+    <Grid Name="g">
+
+        <ItemsControl Name="itemcon"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="303" Width="791" ItemsSource="{Binding panels}" Margin="21,148,0,0" >
+            <ItemsControl.Template>
+                <ControlTemplate>
+                    <ScrollViewer x:Name="ScrollViewer" Padding="{TemplateBinding Padding}" Margin="0,0,3,0.4">
+                        <ItemsPresenter />
+                    </ScrollViewer>
+                </ControlTemplate>
+            </ItemsControl.Template>
+        </ItemsControl>
+
+        <WrapPanel x:Name="SwitcherPanel" HorizontalAlignment="Right" Height="34" Margin="0,392,23,0" VerticalAlignment="Top" Width="359">
+            <ComboBox x:Name="ComboBox2" FontFamily="{StaticResource Error}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Columns2, Mode=TwoWay}" Margin="0,0,10,0" FontSize="14"  >
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FFB3C9F7" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <ComboBox x:Name="ComboBox1" FontFamily="{StaticResource Error}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Columns1, Mode=TwoWay}" Margin="0,0,20,0" FontSize="14"  >
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FFB3C9F7" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <Button x:Name="SwitchButton" FontFamily="{StaticResource Buttom}" Content="Switch" HorizontalAlignment="Left" VerticalAlignment="Top" Width="89" Click="SwitchButton_Click" BorderBrush="Black" Background="#FFB3BCF7" FontSize="16" Height="28"/>
+        </WrapPanel>
+        <WrapPanel x:Name="TaskCreater" HorizontalAlignment="Left" Height="166" Margin="52,552,0,0" VerticalAlignment="Top" Width="559" d:LayoutOverrides="HorizontalAlignment">
+            <TextBox Height="23" FontFamily="{StaticResource Error}" TextWrapping="Wrap" Text="{Binding title, Mode=TwoWay}" Width="120" Margin="0,0,10,0" Background="#FFB3C9F7" BorderBrush="Black" FontSize="14"/>
+            <TextBox Height="24" FontFamily="{StaticResource Error}" TextWrapping="Wrap" Text="{Binding des, Mode=TwoWay}" Width="123" Margin="0,0,20,0" Background="#FFB3C9F7" BorderBrush="Black" FontSize="14"/>
+            <Calendar x:Name="cc" Margin="0,0,30,0" SelectedDate="{Binding Path=due, Mode=TwoWay}" Height="164" Width="179">
+                <Calendar.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFE4EAF0" Offset="0"/>
+                        <GradientStop Color="#FFECF0F4" Offset="0.16"/>
+                        <GradientStop Color="#FFFCFCFD" Offset="0.16"/>
+                        <GradientStop Color="#FFB3BCF7" Offset="1"/>
+                    </LinearGradientBrush>
+                </Calendar.Background>
+            </Calendar>
+            <Button Content="Create" FontFamily="{StaticResource Buttom}" Width="75" Click="Create_Click" Background="#FFB3BCF7" BorderBrush="White" Height="28" FontSize="16"/>
+        </WrapPanel>
+        <Button Content="Column ID" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="27,82,0,0" VerticalAlignment="Top" Width="91" Click="Column_Sort" Background="#FFB3BCF7" BorderBrush="White" FontSize="16"/>
+        <Button Content="Title" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="144,82,0,0" VerticalAlignment="Top" Width="74" Click="Title_Sort" Background="#FFB3BCF7" BorderBrush="White" FontSize="16"/>
+        <Button Content="Description" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="337,82,0,0" VerticalAlignment="Top" Width="96" Click="Des_Sort" Background="#FFB3BCF7" BorderBrush="White" FontSize="16"/>
+        <Button Content="Date" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="564,82,0,0" VerticalAlignment="Top" Width="75" Click="Des_Sort" Background="#FFB3BCF7" BorderBrush="White" FontSize="16"/>
+        <Label x:Name="ErrorsLabel" FontFamily="{StaticResource Error}" Content="{Binding error}" HorizontalAlignment="Left" Margin="845,459,0,0" VerticalAlignment="Top" Height="203" Width="407" Background="#FFF4E8F5" FontSize="18">
+            <Label.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.BorderBrush>
+        </Label>
+        <Label Content="column name" FontFamily="{StaticResource Caviar Dreams}" HorizontalAlignment="Left" Margin="5,100,0,0" VerticalAlignment="Top" Width="134" FontWeight="Bold" FontSize="20" Height="33"/>
+        <Label Content="Title" FontFamily="{StaticResource Caviar Dreams}" HorizontalAlignment="Left" Margin="158,100,0,0" VerticalAlignment="Top" Width="84" FontWeight="Bold" FontSize="22"/>
+        <Label Content="Description" FontFamily="{StaticResource Caviar Dreams}" HorizontalAlignment="Left" Margin="319,100,0,0" VerticalAlignment="Top" Width="134" FontWeight="Bold" FontSize="22"/>
+        <Label Content="Due Date" FontFamily="{StaticResource Caviar Dreams}" HorizontalAlignment="Left" Margin="546,100,0,0" VerticalAlignment="Top" Width="118" FontWeight="Bold" FontSize="22"/>
+        <Canvas Name="ColumnCanvas" HorizontalAlignment="Left" Height="145" Margin="918,139,0,0" VerticalAlignment="Top" Width="321">
+            <Label Content="Name:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="26" Canvas.Top="10" FontWeight="Bold" FontSize="20"/>
+            <Label Content="Limit:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="34" Canvas.Top="45" FontWeight="Bold" FontSize="20"/>
+            <TextBox Height="23" FontFamily="{StaticResource Error}" Canvas.Left="103" TextWrapping="Wrap" Text="{Binding name, Mode=TwoWay}" Canvas.Top="12" Width="142" Background="#FFB3C9F7" BorderBrush="Black" FontSize="14"/>
+            <TextBox Height="22" FontFamily="{StaticResource Error}" Canvas.Left="103" TextWrapping="Wrap" Text="{Binding limit, Mode=TwoWay}" Canvas.Top="50" Width="142" PreviewTextInput="TextBox_PreviewTextInput" Background="#FFB3C9F7" BorderBrush="Black" FontSize="14"/>
+            <Label Content="Choose board to delete:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="-65" Canvas.Top="155" FontWeight="Bold" FontSize="14"/>
+            <Label Content="Filter task by:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="-300" Canvas.Top="381" FontWeight="Bold" Width="199" FontSize="16"/>
+            <Label Content="Title:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="-863" Canvas.Top="446" FontWeight="Bold" Width="64" FontSize="16"/>
+            <Label Content="Description:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="-735" Canvas.Top="446" FontWeight="Bold" Width="118" FontSize="16"/>
+            <Label Content="Due Date:" FontFamily="{StaticResource Caviar Dreams}" Canvas.Left="-568" Canvas.Top="381" FontWeight="Bold" Width="118" FontSize="16"/>
+        </Canvas>
+        <Button Content="Add Column" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="1146,232,0,0" VerticalAlignment="Top" Width="93" Click="add_column" Background="#FFB3BCF7" BorderBrush="Black" Height="25" FontSize="14"/>
+        <Button Content="Log out" FontFamily="{StaticResource Buttom}" BorderThickness="0" HorizontalAlignment="Left" Margin="1065,667,0,0" VerticalAlignment="Top" Width="187" Click="Button_Click" Height="54" Foreground="#FF3F0B53" FontWeight="Bold" FontSize="18">
+            <Button.Background>
+                <ImageBrush ImageSource="Fonts/clickme.png"/>
+            </Button.Background>
+        </Button>
+        <ComboBox x:Name="deleteCol" FontFamily="{StaticResource Error}" HorizontalAlignment="Left" Margin="1048,294,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Columns3, Mode=TwoWay}" d:LayoutOverrides="VerticalAlignment" FontSize="14">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FFB3C9F7" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Button Content="DeleteCol" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="1146,335,0,0" VerticalAlignment="Top" Width="93" Click="delCol" d:LayoutOverrides="VerticalAlignment" Background="#FFB3BCF7" BorderBrush="Black" FontSize="14" Height="25"/>
+        <TextBox x:Name="Filter" FontFamily="{StaticResource Error}" Height="23" Margin="619,559,430,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Background="#FFB3C9F7" BorderBrush="Black" FontSize="14"/>
+        <Button Content="Filter" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Right" Margin="0,594,450,0" VerticalAlignment="Top" Width="74" Click="filter" Background="#FFB3BCF7" BorderBrush="Black" FontSize="16" />
+        <Button Content="Show all tasks" FontFamily="{StaticResource Buttom}" HorizontalAlignment="Left" Margin="619,594,0,0" VerticalAlignment="Top" Width="107" Click="showall" Background="#FFB3BCF7" BorderBrush="Black" FontSize="16"/>
+        <Button x:Name="Boardmng"   Content="for edit you'r boards click here" FontFamily="{StaticResource Buttom}" BorderThickness="0" HorizontalAlignment="Right" Margin="0,0,208,10" VerticalAlignment="Bottom" Width="186" Height="54" Click="Button_Click_2" Panel.ZIndex="1" FontSize="12" Foreground="#FF3F0B53" FontWeight="Bold">
+            <Button.Background>
+                <ImageBrush ImageSource="Fonts/clickme.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Kanban" HorizontalAlignment="Left" Margin="499,-15,0,0" VerticalAlignment="Top" FontFamily="Showcard Gothic" Foreground="#FF723590" Height="110" Width="333" FontSize="72"/>
+        <Label Content="Column edit" HorizontalAlignment="Left" Margin="952,64,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Showcard Gothic" Background="{x:Null}" Foreground="#FFD786E4" Height="54" Width="244"/>
+        <Label Content="Task edit" HorizontalAlignment="Left" Margin="242,0,0,214" VerticalAlignment="Bottom" FontSize="36" FontFamily="Showcard Gothic" Background="{x:Null}" Foreground="#FFD786E4" Height="53" Width="191" d:LayoutOverrides="HorizontalAlignment"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Right" Margin="0,0,422,7" VerticalAlignment="Bottom" Height="265" Width="3" Background="#FFCFB6DA"/>
+        <Label x:Name="label_Copy" Content="" Margin="5,0,437,277" VerticalAlignment="Bottom" Height="3" Background="#FFCFB6DA"/>
+        <Label x:Name="label_Copy1" Content="" HorizontalAlignment="Right" Margin="0,147,421,286" Width="3" Background="#FFCFB6DA"/>
+        <Label x:Name="label_Copy2" Content="" Margin="0,143,437,0" VerticalAlignment="Top" Height="2" Background="#FFCFB6DA"/>
+        <Label x:Name="label_Copy3" Content="" HorizontalAlignment="Left" Margin="0,148,0,285" Width="3" Background="#FFCFB6DA"/>
+        <Label x:Name="label_Copy4" Content="" Margin="0,0,10,277" VerticalAlignment="Bottom" Height="3" Background="#FFCFB6DA" HorizontalAlignment="Right" Width="397"/>
+        <Label x:Name="label_Copy5" Content="" HorizontalAlignment="Left" Margin="611,0,0,2" VerticalAlignment="Bottom" Height="265" Width="3" Background="#FFCFB6DA"/>
+
+
+    </Grid>
+</Window>
